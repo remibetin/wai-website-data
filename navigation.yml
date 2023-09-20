@@ -479,6 +479,22 @@
     url: "/about/participating/"
   - name: Translating
     url: "/about/translating/"
+    pages:
+      - name: Getting Started
+        url: "/about/translating/getting-started/"
+      - name: Guides
+        url: "/about/translating/guides/"
+        pages:
+          - name: Creating a Translation
+            url: "/about/translating/guides/new-translation/"
+          - name: Subtitles/Descriptions
+            url: "/about/translating/guides/video-subtitles/"
+          - name: Reviewing a Translation
+            url: "/about/translating/guides/review-translation/"
+          - name: Translation Guidance
+            url: "/about/translating/guides/translation-guidance/"
+          - name: Using GitHub
+            url: "/about/translating/guides/using-github/"
   - name: Contacting
     url: "/about/contacting/"
   - name: Sponsoring
