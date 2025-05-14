@@ -19,5 +19,5 @@
 
 ## Adding/changing a feature/data file
 
-- [Open a new issue]((https://github.com/w3c/wai-website-data/issues/new)  to explain your suggestion. Include a clear title, description and rationale for the change.
+- [Open a new issue](https://github.com/w3c/wai-website-data/issues/new)  to explain your suggestion. Include a clear title, description and rationale for the change.
 - Do not open a pull request until you have collected positive feedback from WAI Team site managers.
